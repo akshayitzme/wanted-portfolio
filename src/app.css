@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya:wght@400;500;600;700&family=DM+Serif+Display&display=swap');
+body{
+    background-color: #7f7854;
+    font-family: 'Alegreya', serif;
+}
+
+.bg-page-begin{
+    background: rgb(92,74,60);
+    background: linear-gradient(180deg, rgba(92,74,60,1) 0%, rgba(202,177,136,1) 87%); 
+}
+
+.bg-page-end{
+    background: rgb(92,74,60);
+    background: linear-gradient(0deg, rgba(92,74,60,1) 0%, rgba(202,177,136,1) 87%); 
+}
+
+.bg-2{
+    background-color: #cab188;
+}
+
+.bg-3{
+    background: rgb(92,74,60);
+    background: linear-gradient(0deg, rgba(92,74,60,0.8897759787508753) 0%, rgba(226,194,142,1) 20%, rgba(226,194,142,1) 80%, rgba(92,74,60,0.9233894241290266) 100%); 
+}
+
+.f-1{
+    font-family: 'DM Serif Display', serif;
+}
+
+.clr-1{
+    /* color: #332927 */
+    color: #0e0e0e;
+}
